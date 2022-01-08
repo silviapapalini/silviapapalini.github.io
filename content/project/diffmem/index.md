@@ -5,7 +5,7 @@ summary: Fasting bolster brainpower. We are investigating fasting's effects on i
 date: "2018-05-23"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://ppw.kuleuven.be/lbp/Bramlab/Research/the-power-of-hunger"
 
 image:
   caption:
