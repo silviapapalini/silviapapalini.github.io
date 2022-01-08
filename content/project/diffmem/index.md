@@ -1,11 +1,6 @@
 ---
-title: DiffMEM
-summary: Scalable Differential equation based Mixed-Effects modelling
-tags:
-- Non-linear
-- Mixed effects models
-- High-Performance Computing
-- Parallel
+title: The power of hunger
+summary: Fasting bolster brainpower. We are investigating fasting's effects on instrumental avoidance learning and error-based learning (fear extinction). 
 
 date: "2018-05-23"
 
@@ -20,7 +15,7 @@ links:
 - icon: bitbucket
   icon_pack: fab
   name: Source code
-  url: https://bitbucket.org/tomhaber/diffmem/
+  url: https://ppw.kuleuven.be/lbp/Bramlab/Research/the-power-of-hunger
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -33,7 +28,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+In clinical practice, there is a high need to improve the efficacy and long-term outcome of treatments for excessive avoidance and pathological anxiety. This project pinpoints fasting as an emerging, low cost, and safe adjunct to psychotherapy, which effects on behavior and cognition remain, however, to be clarified. 
 
-Existing tools (NONMEM, SAS, Winbugs) are not well suited for complex models and high-performance. The algorithms used are not always very suitable for use with large numbers of parameters and complicated non-linear models. And more importantly the hardware landscape has changed tremendously since those tools were developed: single core chip performance has begun to stagnate with a resulting move to multicore and more parallelism.
-
-DiffMEM is tool for Non-Linear Mixed Effect model optimization in a frequentist and Bayesian context built specifically for complex models (mostly ordinary/partial differential equations) and performance. Through heavy the use of parallism, extensive low-level optimizations and algorithmic innovation, it is able to rapidly fit complex models. This in turn allows for shorter duty-cycles while building a model, and enables adaptive/optimal trial design and model validation since those typically require a lot of simulation+estimation steps.
+Emerging evidence indicates that fasting triggers a cascade of chemical events able to sensitize the mesolimbic dopaminergic brain, the system which tunes learning signals. Consequently, this project investigates the effects of overnight fasting (16h) on two different dopamine-based types of learning, both highly relevant in anxiety-related disorders: instrumental avoidance learning and fear extinction learning. Given that fasting enhances the representational value of a reward (i.e. food and money), we are additionally examining if the effects of fasting transfer to other types of reinforcers, as so, to relief from threat omission. Specifically, since exaggerating relief from threat omission might over-reinforce instrumental avoidance in the clinical population, in this study we examine is fasting increases relief, and, consequently, avoidance behaviors.
