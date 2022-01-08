@@ -34,19 +34,10 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/silvia-papalini-a818a43b/
 
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Silvia Papalini is a Ph.D. student currently working at the KULeuven University, Belgium, and a Mindful Eating teacher in training since 2018. Her area of research focuses on fear and reward-based learning within the context of nutritional and behavioral neuroscience (functional Magnetic Resonance Imaging, fMRI), fasting and stress. 
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Silvia Papalini is a Ph.D. student currently working at the KULeuven University, Belgium, and a Mindful Eating teacher in training since 2018. Her area of research focuses on fear and reward-based learning within the context of nutritional and behavioral neuroscience (functional Magnetic Resonance Imaging, fMRI), fasting and stress.
