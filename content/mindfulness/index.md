@@ -12,4 +12,4 @@ What is mindfullness eating?
 
 I was introduced to Mindfulness Eating by Caroline Baerten, one of the most insiring persons I ever met in my live. She followed me during my course in Mindful Based Stress Reduction (MBRS) in Brussel, and, as simple it migth sound, I found myself fully connected to the ZEN-based phylosophy of this practice. I then felt that a formative mindful path that was closer to my research interest, passions, and values, was really needed. Hence, I flew to Norway where I had the immense pleasure to attend the Mindful Eating-Conscious Living training with Jan Chozen Bays and Char Wilkins (https://me-cl.com/our-story/), the gretest experience of my life. 
 
-My wish for the future, it to reach excellent research output that can be used to improve the outcome of this valuable practice.
+My wish for the future? To reach excellent research output that can be used to improve the outcome of this valuable practice.
