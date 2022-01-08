@@ -6,7 +6,7 @@ summary: We are examining how the brain of individuals with an obsessive-compuls
 date: "2018-10-23"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://ppw.kuleuven.be/lbp/Bramlab/Research/the-neurocircuitry-of-relief-in-pathological-avoidance"
 
 image:
   caption: copyright Illumina
