@@ -4,11 +4,12 @@ widget: page
 title: 'About me'
 ---
 
-{{< row >}}
+<!--{{< row >}}
 {{< column>}}
 {{< figure src="silvia.jpg">}}
 {{< /column>}}
 {{< column>}}
+-->
 ## Accademic path
 I hold a Master's degree in Experimental Psychology and obtained my first PhD in Psychological Sciences at the University of Florence (UniFi), Italy, conducting basic research on reward-related brain processes in humans. I developed my scientific knowledge on reward-processing and neuroimaging skills also working in collaboration with the Maastricht University (The Netherlands) via an Erasmus+ European grant. In 2016, I became a member of the 'Food and Cognition group' at the Donders Institute (The Netherlands) where I investigated the effects of a probiotics diet on neuro-cognition and stress, with a focus on cognitive control mechanisms. Since 2018, I started a second PhD at KULeuven with the aim to translate knowledge from fundamental research to the clinical field. 
 
@@ -17,6 +18,7 @@ The final aim of my research is to help people that struggele with excessive anx
 
 ## My future aspirations as researcher
 Currently I am an European Research Council (ERC) starting grant aspirant/applicant. My ERC project will focus on the fondamental learning processes underpinning excessive emotional eating.
-
+<!--
 {{< /column>}}
 {{< /row >}}
+-->
