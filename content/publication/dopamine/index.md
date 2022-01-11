@@ -22,8 +22,8 @@ publishDate: "2020-04-21T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Behaviour Research and Therapy
-publication_short: Behaviour Research and Therapy
+publication:Translational Psychiatry
+publication_short: Translational Psychiatry
 
 abstract: Dopamine, one of the main neurotransmitters in the mammalian brain, has been implicated in the coding of prediction errors that govern reward learning as well as fear extinction learning. Psychotherapy too can be viewed as a form of error-based learning, because it challenges erroneous beliefs and behavioral patterns in order to induce long-term changes in emotions, cognitions, and behaviors. Exposure therapy, for example, relies in part on fear extinction principles to violate erroneous expectancies of danger and induce novel safety learning that inhibits and therefore reduces fear in the long term. As most forms of psychotherapy, however, exposure therapy suffers from non-response, dropout, and relapse. This narrative review focuses on the role of midbrain and prefrontal dopamine in novel safety learning and investigates possible pathways through which dopamine-based interventions could be used as an adjunct to improve both the response and the long-term effects of the therapy. Convincing evidence exists for an involvement of the midbrain dopamine system in the acquisition of new, safe memories. Additionally, prefrontal dopamine is emerging as a key ingredient for the consolidation of fear extinction. We propose that applying a dopamine prediction error perspective to psychotherapy can inspire both pharmacological and non-pharmacological studies aimed at discovering innovative ways to enhance the acquisition of safety memories. Additionally, we call for further empirical investigations on dopamine-oriented drugs that might be able to maximize consolidation of successful fear extinction and its long-term retention after therapy, and we propose to also include investigations on non-pharmacological interventions with putative prefrontal dopaminergic effects, like working memory training.
 
