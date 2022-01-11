@@ -26,8 +26,8 @@ publishDate: "2021-04-26T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Behaviour Research and Therapy
-publication_short: Behaviour Research and Therapy
+publication: BMC Neuroscience
+publication_short: BMC Neuroscience
 
 abstract: "
 Background
