@@ -14,5 +14,3 @@ header:
   caption: ""
   image: ""
 ---
-
-For a full list, see [my Researchgate page](https://www.researchgate.net/profile/Silvia-Papalini-2).
