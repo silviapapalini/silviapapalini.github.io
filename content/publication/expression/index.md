@@ -6,13 +6,24 @@ title: "Reward Anticipation in Early Expression of Psychotic Disorder: A Functio
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Stijn Michielse
-- Janneke Roelofs
+- Iris Lange
+- Jindra Bakker
+- Liesbet Goossens
+- admin
+- Simone Verhagen
+- Marieke Wichers
+- Ritsaert Lieverse
+- Therese van Amelsvoort
+- Koen Schruers
+- Jim van Os
+- Graham Murray
+- Machteld Marcelis
 
-date: "2017-03-20T00:00:00Z"
-doi: "https://doi.org/10.1093/schbul/sbx021.206"
+date: "2019-12-01T00:00:00Z"
+doi: "https://doi.org/10.1016/j.euroneuro.2019.10.002"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-03-20T00:00:00Z"
+publishDate: 2019-12-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -21,18 +32,10 @@ publishDate: "2017-03-20T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Schizophrenia Bulletin
-publication_short: Schizophrenia Bulletin
+publication: European Neuropsychopharmacology
+publication_short: European Neuropsychopharmacology
 
-abstract: "
-Background: Studying young adults in the prodromal phase of psychotic disorder could provide information on the development of psychosis and contribute to early interventions. Previous research in patients with psychotic disorder shows alterations in the brain’s reward system (ventral medial prefrontal cortex (VMPFC), ventral striatum (VS), nucleus accumbens, caudate, putamen, ventral tegmental area (VTA)) using the monetary incentive delay task (MIDt). Reward anticipation is the expectation of reward and therefore a positive reinforcement of an action. It is hypothesized in a prodromal psychotic experiences (PE) group that reward anticipation is reduced.
-
-Methods: A sample (n = 25) of young adults aged 16–26 years in the PE-group (CAPE positive distress subscale ≥ 2) and healthy control (HC) group (n = 42) were analyzed. Reward anticipation was based on reaction times on seven different cues in the MIDt and fMRI was measured during this phase. Cues related to win, loss, or neutral conditions with three gain/loss levels (small; €0.10, medium; €0.60 and large €3.00). During the anticipation phase, functional brain activation was recorded. Whole-brain fMRI analysis was performed using FSL focusing on the reward versus neutral contrasts. A region of interest (ROI) analysis on VMPFC, VS and VTA was conducted.
-
-Results: Mean age (22 years), gender, and educational level did not differ. Trend significance for slower reaction times toward the loss cue in the PE-group was found. No significant differences in cue reaction times, nonresponses and money gain were found. In the fMRI analysis, main effects of large win (€3.00) > neutral were found in both groups showing widespread brain activation. When comparing PE > HC group on the large gain outcome > neutral increased activation was found in the left temporal pole. This finding was confirmed on the contrast combining all gain levels > neutral. ROI analysis did not find significant differences between groups.
-
-Conclusion: The difference in reaction time towards the square cue could indicate a difference in loss avoidance in the PE group. Therefore, altered reward anticipation in individuals with prodromal psychosis may indicate that underlying dopamine dysregulation may be more subtle in this phase, thereby not (yet) influencing behavioral mechanisms. Increased activation in the PE-group compared to the HC-group in the reward anticipation contrast might point to a compensatory mechanism in the prodromal phase.
-"
+abstract: Previous research in patients with psychotic disorder has shown widespread abnormalities in brain activation during reward anticipation. Research at the level of subclinical psychotic experiences in individuals unexposed to antipsychotic medication is limited with inconclusive results. Therefore, brain activation during reward anticipation was examined in a larger sample of individuals with subclinical psychotic experiences (PE). Participants in the PE-group were included based on CAPE scores. A sample of emerging adults aged 16–26 years (n = 47) with PE and healthy controls (HC) (n = 40) underwent fMRI scanning. The Monetary Incentive Delay task was conducted with cues related to win, loss or neutral conditions. fMRI nonparametric tests were used to examine the reward versus neutral cue contrast. A significant main effect of the large win (€3.00) > neutral contrast was found in both groups showing activation in many brain areas, including classic reward regions. Whole brain analysis on the group comparison regarding the large win > neutral contrast showed significantly decreased activation in the right insula, putamen and supramarginal gyrus in the PE-group compared to controls. There was no group difference in the hypothesized reward-related region. Decreased activation in the right insula, putamen and supramarginal gyrus during reward anticipation in individuals with PE may be consistent with altered processing of sensory information, related to decreased emotional valuing and motivational tendencies and/or altered motor-cognitive processes. The absence of group differences in striatal activation suggests that activation here is intact in the earliest stages of psychosis and may exhibit progressive deterioration in as the disease develops.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -68,6 +71,5 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- avoidance
+projects: []
 ---
