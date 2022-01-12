@@ -1,5 +1,5 @@
 ---
-title: "The drive for thinness: Towards a mechanistic understanding of avoidance behaviors in a non-clinical population"
+title: "Overnight fasting affects avoidance learning and relief"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -38,9 +38,9 @@ tags: [fasting, food deprivation, avoidance, extinction, reward, relief, anxiety
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: PsyArXiv
+  url: https://psyarxiv.com/muz38/
 
 url_pdf: ''
 url_code: ''
