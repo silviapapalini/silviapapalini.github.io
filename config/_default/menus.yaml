@@ -14,7 +14,7 @@ main:
     url: '/project'
     weight: 30
   - name: Publications
-    url: '#featured'
+    url: '/publication'
     weight: 50
   - name: Mindfulness
     url: '/mindfulness'
