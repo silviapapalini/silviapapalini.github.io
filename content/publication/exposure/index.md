@@ -17,11 +17,11 @@ authors:
 - Liesbet Goossens
 - Koen Schruers
 
-date: "2021-10-291T00:00:00Z"
+date: "2020-07-081T00:00:00Z"
 doi: "https://doi.org/10.1016/j.pnpbp.2019.02.002"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-10-29T00:00:00Z"
+publishDate: "2020-07-081T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -31,7 +31,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: Progress in Neuro-Psychopharmacology and Biological Psychiatry
-publication_short: Progress in Neuro-Psychopharmacology and Biological Psychiatry
+publication_short: Prog Neuropsychopharmacol Biol Psychiatry
 
 abstract: "
 Background: Exposure is the gold standard treatment for phobic anxiety and is thought to represent the clinical application of extinction learning. Reward sensitivity might however also represent a predictive factor for exposure therapy outcome, as this therapy promotes positive experiences and involves positive comments by the therapist. We hypothesized that high reward sensitivity, as expressed by elevated reward expectancy and reward value, can be associated with better outcome to exposure therapy specifically.
