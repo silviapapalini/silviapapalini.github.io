@@ -27,8 +27,8 @@ publishDate: "2018-12-10T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Current Opinion in Psychology
-publication_short: Current Opinion
+publication: Neurobiology of Stress
+publication_short: Neurobiology of Stress
 
 abstract: Probiotics are microorganisms that provide health benefits when consumed. In animals, probiotics reverse gut microbiome-related alterations in depression-like symptoms, in cognition, and in hormonal stress response. However, in humans, a causal understanding of the gut-brain link in emotion and cognition is lacking. Additionally, whether the effects of probiotics on neurocognition are visible only in presence of stress, remains unclear. We investigated the effects of a multispecies probiotic (Ecologic®Barrier) on specific neurocognitive measures of emotion reactivity, emotion regulation, and cognitive control using fMRI. Critically, we also tested whether probiotics can buffer against the detrimental effects of acute stress on working memory. In a double blind, randomized, placebo-controlled, between-subjects intervention study, 58 healthy participants were tested once before and once after a 28-day intervention. Without stress induction, probiotics did not affect brain, behavioral, or related self-report measures. However, relative to placebo, the probiotics group did show a significant stress-related increase in working memory performance after supplementation. This change was associated with intervention-related neural changes in frontal cortex during cognitive control exclusively in the probiotics group. Overall, our results show neurocognitive effects of a multispecies probiotic in healthy women only under challenging situations, buffering against the detrimental effects of stress on cognition.
 
