@@ -23,7 +23,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: Current Opinion in Psychology
-publication_short: Current Opinion
+publication_short: Current Opinion in Psychology
 
 abstract: Experimental Psychopathology (EPP) and the Research Domain Criteria (RDoC) are research approaches that have developed in parallel, providing inter-related yet different scientific frameworks to investigate psychopathology at the intersection of fundamental and applied research. Here we address the overlap and differences between RDoC and EPP, and the challenges that both approaches face. Although overlap between EPP and RDoC can be clearly observed, each approach has its own unique strengths and weaknesses. These aspects will be illustrated by examples with respect to fear conditioning, an experimental procedure that has played a central role in both EPP and RDoC. We see much potential in boosting psychopathology research by combining the strengths of these two approaches.
 
