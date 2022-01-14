@@ -1,7 +1,7 @@
 ---
 
-title: "The Brain and Cognition (B&C) seminars: A Window Into The Hungry Brain: from Pavlovian to avoidance learning."
-event: SilviaCon
+title: "A Window Into The Hungry Brain: from Pavlovian to avoidance learning."
+event: The Brain and Cognition (B&C) seminars
 
 location: Online
 
