@@ -5,7 +5,7 @@ title: 'Roots in Nature'
 ---
 In many ways, my approach to research and interest in mindful eating are connected to Nature. 
 
-Nature might seem something far away from a scientist who spends most of her time in the LAB. Fortunately, I had the greatest luck to grow up in a beautiful and peaceful place (Castell'Azzara) in the middle of Italy, and to stay close to the work of one of my best teachers in life: my brother, Leo.
+Nature might seem something far away from a scientist who spends most of her time in the LAB, but that is only partially true. Fortunately, I had the greatest luck to grow up in a beautiful and peaceful place (Castell'Azzara) in the middle of Italy, and to stay close to the work of one of my best teachers in life: my brother, Leo.
 
 Leo coultivates olive trees and produces fresh olive oil every year. His love and respect for Nature are so deeply honest that it is difficult to do not get inspired by the way he does its job (I would better call it passion or value). Leo is interested in learning how to help grow and reproduce the olive trees, follows courses to learn about the best way of pruning in its geographic region, checks its olive trees every day to be sure they get enough water and nutrients that can protect them from diseases when seasons change or are particularly harsh. In few words Leo builded up its own LAB. I followed its teaching, picking 'my' own trees of interest (people), but maintaining that way of connection with/ and caring for nature.  
 
