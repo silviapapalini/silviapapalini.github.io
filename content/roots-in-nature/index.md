@@ -2,6 +2,9 @@
 widget: page
 
 title: 'Roots in Nature'
+header:
+  image: "roots.jpg"
+  caption: "CCO Max Pixel"
 ---
 
 {{< figure src="olives.jpg" class="floatright" >}}
