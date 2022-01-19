@@ -4,6 +4,8 @@ widget: page
 title: 'About me'
 ---
 
+{{< figure src="silvia.jpg" caption="Silvia" class="floatleft" >}}
+
 ## My accademic path
 
 I hold a Master's degree in Experimental Psychology and obtained my first Ph.D. in Psychological Sciences at the University of Florence (UniFi), Italy, conducting basic research on reward-related brain processes in humans. I developed my scientific knowledge on reward-processing and neuroimaging skills also working in collaboration with the Maastricht University (The Netherlands) via an Erasmus+ European grant. In 2016, I became a member of the 'Food and Cognition group' at the Donders Institute (The Netherlands) where I investigated the effects of a probiotic diet on neuro-cognition and stress, with a focus on cognitive control mechanisms. In 2018, I started a second Ph.D. at KULeuven with the aim to translate knowledge from fundamental research to the clinical field. 
