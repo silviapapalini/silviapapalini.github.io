@@ -1,0 +1,12 @@
+# Font style metadata
+name = "Amatic"
+
+# Optional Google font URL
+google_fonts = "family=Amatic+SC:wght@400;700&family=Cutive+Mono&family=Josefin+Sans:wght@300"
+
+# Font families
+heading_font = "Amatic SC"
+body_font = "Josefin Sans"
+#nav_font = "Amatic SC"
+nav_font = "Josefin Sans"
+mono_font = "Cutive Mono"

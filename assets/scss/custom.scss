@@ -1,18 +1,42 @@
 figure.floatright {
-	max-width: 30%;
+	max-width: 40%;
 	width: auto;
 	height: auto;
 	float: right;
-	margin: 10px;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
 }
 figure.floatleft {
 	max-width: 30%;
 	width: auto;
 	height: auto;
 	float: left;
-	margin: 10px;
+	margin: 20px;
 }
 
 article.article p {
 	text-align: justify;
+}
+
+.dropdown-menu,
+nav#navbar-main li.nav-item {
+  font-size: 20px;
+  font-weight: 400;
+}
+
+h1 {
+	font-size: 3.5rem;
+}
+
+h2 {
+	font-size: 2rem;
+}
+
+.portrait-title h2 {
+	font-size: 4rem;
+}
+
+.portrait-title h3 {
+	font-size: 2rem;
 }
