@@ -16,4 +16,4 @@ The final aim of my research is to help people that struggle with excessive anxi
 
 ## My future aspirations as researcher
 
-Currently, I am a European Research Council (ERC) starting grant aspirant/applicant. If founded, my ERC project will focus on the fondamental learning processes underpinning excessive emotional eating.
+Currently, I am a European Research Council (ERC) starting grant aspirant/applicant. If founded, my ERC project will focus on the fundamental learning processes underpinning excessive emotional eating.
