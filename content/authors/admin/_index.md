@@ -41,3 +41,5 @@ email: ""
 highlight_name: true
 ---
 Silvia Papalini is a Ph.D. student currently working at the KULeuven University, Belgium, and a Mindful Eating teacher in training since 2018. Her area of research focuses on fear and reward-based learning within the context of nutritional and behavioral neuroscience (functional Magnetic Resonance Imaging, fMRI), fasting, and stress.
+
+{{< figure src="fmri.jpg" >}}
