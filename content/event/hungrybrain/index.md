@@ -1,6 +1,6 @@
 ---
 title: "A Window Into The Hungry Brain: from Pavlovian to avoidance learning."
-event: "The Brain and Cognition (B&C) seminars - Online"
+event: "The Brain and Cognition (B&C) seminars"
 
 abstract: "
 Fasting is producing a widespread flourishing commercial market with pseudoscientific advice on how to fast to feel and ‘look’ good, especially among teenagers. The empirical research is instead providing clear data that fasting should be used carefully since this practice triggers beneficial as well as harmful chemical events in the body. One of the consequences of these events is that fasting can induce significant changes in the mesolimbic dopaminergic brain, the system that tunes our learning signals.
