@@ -1,5 +1,5 @@
 ---
-title: "Recent & Upcoming Talks and Courses"
+title: "Recent & Upcoming Talks"
 cms_exclude: true
 
 # View.
