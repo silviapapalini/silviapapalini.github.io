@@ -5,7 +5,6 @@ title: "Impaired Action-Safety Learning And Excessive Relief  During Elevated Av
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
 - De Kleine, R.A.
 - Hutschemaekers, M.
 - Hendriks, G.J.
