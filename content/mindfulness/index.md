@@ -13,3 +13,10 @@ What is mindfulness eating?
 I was introduced to Mindfulness Eating by Caroline Baerten, one of the most inspiring persons I ever met in my life. She followed me during my course in Mindful Based Stress Reduction (MBRS) in Brussel, and, as simple it might sound, I found myself fully connected to the ZEN-based philosophy of this practice. I then felt that a formative mindful path that was closer to my research interest, passions, and values, was really needed. Hence, I flew to Norway where I had the immense pleasure to attend the Mindful Eating-Conscious Living training with Jan Chozen Bays and Char Wilkins (https://me-cl.com/our-story/), the greatest experience of my life.
 
 My wish for the future? To reach excellent research output that can be used to improve the results of this valuable practice.
+
+About the course:
+If you are struggling with food craving, you often experience emotional eating when stresses or anxious, you are you curios and do you simply want to experience a different approach to food, this 8 weeks program might be of your interest. Mindful Eating is a non-diet approach to achieve a healthier relationship with food and your body.
+The participation depends upon medical-related conditions. If interested to participate and/or need further information please check the contact section of the website
+
+
+
