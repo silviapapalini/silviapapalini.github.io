@@ -7,6 +7,7 @@ header:
 #  image: "vegi-header.jpg"
 ---
 
+
 If you are interested in my research just drop a line to silvia.papalini@kuleuven.be
 
 If you are interested in the Mindful Eating Program you can contact me via this e-mail: mindfuleatingprogram@gmail.com
