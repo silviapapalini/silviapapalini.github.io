@@ -5,13 +5,13 @@ title: "A short-term musical training affects implicit emotion regulation only i
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Berthold-Losleben M.
+- Berthold-Losleben M
 - admin
-- Habel U.
-- Losleben K.
-- Schneider F.
-- Amunts K.
-- Kohn N.
+- Habel U
+- Losleben K
+- Schneider F
+- Amunts K
+- Kohn N
 
 date: "2021-04-26T00:00:00Z"
 doi: "http://dx.doi.org/10.1186/s12868-021-00636-1"
