@@ -11,7 +11,7 @@ Mindful Eating is a non-diet approach to achieve a healthier relationship with f
 
 Coming soon.
 
-The participation depends upon medical-related conditions. If interested to participate and/or need further information please contact Dr. Silvia Papalini to mindfuleatingprogram@gmail.com"
+The participation depends upon medical-related conditions. If interested to participate and/or need further information please check the contact section of the website"
 
 location: Online or in person
 
