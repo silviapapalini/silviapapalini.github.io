@@ -6,9 +6,9 @@ title: "The role of context in persistent avoidance and the predictive value of 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- M Ashoori,
-- J Zaman 3,
-- Tom Beckers,
+- M Ashoori
+- J Zaman 
+- Tom Beckers
 - Bram Vervliet
 
 date: "2021-01-241T00:00:00Z"
