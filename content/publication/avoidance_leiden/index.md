@@ -5,13 +5,13 @@ title: "Impaired Action-Safety Learning And Excessive Relief  During Elevated Av
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- De Kleine, R.A.
-- Hutschemaekers, M.
-- Hendriks, G.J.
-- Kampman, M.
-- Papalini, S.
+- De Kleine, R
+- Hutschemaekers, M
+- Hendriks, G
+- Kampman, M
+- Papalini, S
 - Van Minnen, A
-- Vervliet, B.
+- Vervliet, B
 
 date: "2022-12-31"
 # #doi: "https://doi.org/10.1016/j.brat.2021.103868"
