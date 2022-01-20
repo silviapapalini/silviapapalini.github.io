@@ -1,5 +1,5 @@
 ---
-title: "A Window Into The Hungry Brain: overnight fasting effects on the neurobiology of avoidance learning and relief", "Scientific paper in preparation"
+title: "A Window Into The Hungry Brain: overnight fasting effects on the neurobiology of avoidance learning and relief -- Scientific paper in preparation"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
