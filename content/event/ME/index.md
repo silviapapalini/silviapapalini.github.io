@@ -3,7 +3,8 @@ title: "Mindful Eating Course"
 event: "Recurrent event, coming soon."
 
 abstract: "Are you struggling with food craving?  Do you often experience emotional eating when stresses or anxious?  Are you curios and do you simply want to experience a different approach to food?
-Mindful Eating is a non-diet approach to achieve a healthier relationship with food and your body. This course is organized in 8 weeks program. The participation depends upon medical-related conditions. If interested to participate and/or need further information please check the contact section of the website"
+Mindful Eating is a non-diet approach to achieve a healthier relationship with food and your body. This course is organized in 8 weeks program. The participation depends upon medical-related conditions. If interested to participate and/or need further information please check the contact section of the website
+"
 
 location: Online or in person
 
