@@ -9,7 +9,7 @@ authors:
 - Hutschemaekers, M
 - Hendriks, G
 - Kampman, M
-- Papalini, S
+- admin
 - Van Minnen, A
 - Vervliet, B
 
