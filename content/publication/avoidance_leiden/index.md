@@ -6,12 +6,12 @@ title: "Impaired Action-Safety Learning And Excessive Relief  During Elevated Av
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- De Kleine, R.A.,
-- Hutschemaekers, M.,
-- Hendriks, G.J., 
-- Kampman, M., 
-- Papalini, S., 
-- Van Minnen, A.,
+- De Kleine, R.A.
+- Hutschemaekers, M.
+- Hendriks, G.J.
+- Kampman, M.
+- Papalini, S.
+- Van Minnen, A
 - Vervliet, B.
 
 date: "2021-10-291T00:00:00Z"
