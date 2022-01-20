@@ -21,18 +21,18 @@ bio: Experimental Psychologist
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:silvia.papalini@kuleuven.be'
+# - icon: envelope
+# icon_pack: fas
+#  link: 'mailto:silvia.papalini@kuleuven.be'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/silviapapalini
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://www.researchgate.net/profile/Silvia-Papalini-2
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/silvia-papalini-a818a43b/
+#- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#  icon_pack: fas
+#  link: https://www.researchgate.net/profile/Silvia-Papalini-2
+#- icon: linkedin
+#  icon_pack: fab
+#  link: https://www.linkedin.com/in/silvia-papalini-a818a43b/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
