@@ -15,7 +15,7 @@ I was introduced to Mindfulness Eating by Caroline Baerten, one of the most insp
 My wish for the future? To reach excellent research output that can be used to improve the results of this valuable practice.
 
 About the course:
-If you are struggling with food craving, you often experience emotional eating when stresses or anxious, you are you curios and do you simply want to experience a different approach to food, this 8 weeks program might be of your interest. Mindful Eating is a non-diet approach to achieve a healthier relationship with food and your body.
+If you are struggling with food craving, you often experience emotional eating when stresses or anxious, you are curios and you simply want to experience a different approach to food, this 8 weeks program might be of your interest. Remember that: Mindful Eating is a non-diet approach to achieve a healthier relationship with food and your body.
 The participation depends upon medical-related conditions. If interested to participate and/or need further information please check the contact section of the website
 
 
