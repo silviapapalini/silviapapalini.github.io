@@ -10,7 +10,7 @@ authors:
 - Bram Vervliet
 
 date: "2020-04-21T00:00:00Z"
-doi: "https://doi.org/10.1038/s41398-020-0814-x"
+doi: "10.1038/s41398-020-0814-x"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-04-21T00:00:00Z"

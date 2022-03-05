@@ -10,7 +10,7 @@ authors:
 - Bram Vervliet
 
 date: "2021-10-01T00:00:00Z"
-doi: "https://doi.org/10.1016/j.copsyc.2021.07.004"
+doi: "10.1016/j.copsyc.2021.07.004"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-10-01T00:00:00Z"

@@ -18,7 +18,7 @@ authors:
 - Koen Schruers
 
 date: "2019-07-08"
-doi: "https://doi.org/10.1016/j.pnpbp.2019.02.002"
+doi: "10.1016/j.pnpbp.2019.02.002"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-07-08"

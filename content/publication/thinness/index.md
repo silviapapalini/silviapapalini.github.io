@@ -11,7 +11,7 @@ authors:
 - Bram Vervliet
 
 date: "2021-07-01T00:00:00Z"
-doi: "https://doi.org/10.1016/j.brat.2021.103868"
+doi: "10.1016/j.brat.2021.103868"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-07-01T00:00:00Z"

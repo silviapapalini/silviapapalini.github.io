@@ -15,7 +15,7 @@ authors:
 - E Aarts
 
 date: "2018-12-10T00:00:00Z"
-doi: "https://doi.org/10.1016/j.ynstr.2018.100141"
+doi: "10.1016/j.ynstr.2018.100141"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2018-12-10T00:00:00Z"

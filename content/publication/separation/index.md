@@ -21,7 +21,7 @@ authors:
 - Koen Schruers
 
 date: "2017-11-01T00:00:00Z"
-doi: "https://doi.org/10.1093/scan/nsx104"
+doi: "10.1093/scan/nsx104"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-11-01T00:00:00Z"

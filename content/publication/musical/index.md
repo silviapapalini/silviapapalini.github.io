@@ -14,7 +14,7 @@ authors:
 - Kohn N
 
 date: "2021-04-26T00:00:00Z"
-doi: "http://dx.doi.org/10.1186/s12868-021-00636-1"
+doi: "10.1186/s12868-021-00636-1"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-04-26T00:00:00Z"

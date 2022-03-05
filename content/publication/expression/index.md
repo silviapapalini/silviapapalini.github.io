@@ -20,7 +20,7 @@ authors:
 - Machteld Marcelis
 
 date: "2019-12-01"
-doi: "https://doi.org/10.1016/j.euroneuro.2019.10.002"
+doi: "10.1016/j.euroneuro.2019.10.002"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-12-01T00:00:00Z"
